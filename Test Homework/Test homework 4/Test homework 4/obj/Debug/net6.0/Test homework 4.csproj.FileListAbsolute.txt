@@ -1,0 +1,15 @@
+D:\Yura\SoftServe\Test homework 4\Test homework 4\bin\Debug\net6.0\Test homework 4.exe
+D:\Yura\SoftServe\Test homework 4\Test homework 4\bin\Debug\net6.0\Test homework 4.deps.json
+D:\Yura\SoftServe\Test homework 4\Test homework 4\bin\Debug\net6.0\Test homework 4.runtimeconfig.json
+D:\Yura\SoftServe\Test homework 4\Test homework 4\bin\Debug\net6.0\Test homework 4.dll
+D:\Yura\SoftServe\Test homework 4\Test homework 4\bin\Debug\net6.0\Test homework 4.pdb
+D:\Yura\SoftServe\Test homework 4\Test homework 4\obj\Debug\net6.0\Test homework 4.csproj.AssemblyReference.cache
+D:\Yura\SoftServe\Test homework 4\Test homework 4\obj\Debug\net6.0\Test homework 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yura\SoftServe\Test homework 4\Test homework 4\obj\Debug\net6.0\Test homework 4.AssemblyInfoInputs.cache
+D:\Yura\SoftServe\Test homework 4\Test homework 4\obj\Debug\net6.0\Test homework 4.AssemblyInfo.cs
+D:\Yura\SoftServe\Test homework 4\Test homework 4\obj\Debug\net6.0\Test homework 4.csproj.CoreCompileInputs.cache
+D:\Yura\SoftServe\Test homework 4\Test homework 4\obj\Debug\net6.0\Test homework 4.dll
+D:\Yura\SoftServe\Test homework 4\Test homework 4\obj\Debug\net6.0\refint\Test homework 4.dll
+D:\Yura\SoftServe\Test homework 4\Test homework 4\obj\Debug\net6.0\Test homework 4.pdb
+D:\Yura\SoftServe\Test homework 4\Test homework 4\obj\Debug\net6.0\Test homework 4.genruntimeconfig.cache
+D:\Yura\SoftServe\Test homework 4\Test homework 4\obj\Debug\net6.0\ref\Test homework 4.dll
